@@ -1,7 +1,7 @@
 #### Ruby Script to encode videos using AWS elastictranscoder
 
 ##### Pre-requisites
-* Install the ruby sdk using
+* Install the ruby sdk using  
 ```gem install 'aws-sdk'```
 
 ##### Execution
